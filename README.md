@@ -1,3 +1,6 @@
+## Shape Drawer
+
+Draw shapes to the screen with different colors, fill options and sizes. Then download the resulting image as png.
 
 ## How To Run
 
